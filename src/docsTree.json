@@ -1,0 +1,715 @@
+{
+  "nodes": [
+    {
+      "id": "docs/",
+      "label": "docs/",
+      "parent": null,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "isDir": true,
+      "children": [
+        "docs/api",
+        "docs/architecture.md",
+        "docs/core",
+        "docs/main.md",
+        "docs/models",
+        "docs/schemas",
+        "docs/services",
+        "docs/tests"
+      ],
+      "firstMarkdownId": "docs/architecture.md"
+    },
+    {
+      "id": "docs/api",
+      "label": "api/",
+      "parent": "docs/",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "isDir": true,
+      "children": [
+        "docs/api/endpoints"
+      ],
+      "firstMarkdownId": "docs/api/endpoints/conversation.md"
+    },
+    {
+      "id": "docs/api/endpoints",
+      "label": "endpoints/",
+      "parent": "docs/api",
+      "position": {
+        "x": 0,
+        "y": 120
+      },
+      "isDir": true,
+      "children": [
+        "docs/api/endpoints/conversation.md"
+      ],
+      "firstMarkdownId": "docs/api/endpoints/conversation.md"
+    },
+    {
+      "id": "docs/api/endpoints/conversation.md",
+      "label": "conversation.md",
+      "parent": "docs/api/endpoints",
+      "position": {
+        "x": 0,
+        "y": 240
+      },
+      "isDir": false,
+      "children": [],
+      "firstMarkdownId": null
+    },
+    {
+      "id": "docs/architecture.md",
+      "label": "architecture.md",
+      "parent": "docs/",
+      "position": {
+        "x": 250,
+        "y": 0
+      },
+      "isDir": false,
+      "children": [],
+      "firstMarkdownId": null
+    },
+    {
+      "id": "docs/core",
+      "label": "core/",
+      "parent": "docs/",
+      "position": {
+        "x": 500,
+        "y": 0
+      },
+      "isDir": true,
+      "children": [
+        "docs/core/config.md"
+      ],
+      "firstMarkdownId": "docs/core/config.md"
+    },
+    {
+      "id": "docs/core/config.md",
+      "label": "config.md",
+      "parent": "docs/core",
+      "position": {
+        "x": 0,
+        "y": 120
+      },
+      "isDir": false,
+      "children": [],
+      "firstMarkdownId": null
+    },
+    {
+      "id": "docs/main.md",
+      "label": "main.md",
+      "parent": "docs/",
+      "position": {
+        "x": 750,
+        "y": 0
+      },
+      "isDir": false,
+      "children": [],
+      "firstMarkdownId": null
+    },
+    {
+      "id": "docs/models",
+      "label": "models/",
+      "parent": "docs/",
+      "position": {
+        "x": 1000,
+        "y": 0
+      },
+      "isDir": true,
+      "children": [
+        "docs/models/conversation.md"
+      ],
+      "firstMarkdownId": "docs/models/conversation.md"
+    },
+    {
+      "id": "docs/models/conversation.md",
+      "label": "conversation.md",
+      "parent": "docs/models",
+      "position": {
+        "x": 0,
+        "y": 120
+      },
+      "isDir": false,
+      "children": [],
+      "firstMarkdownId": null
+    },
+    {
+      "id": "docs/schemas",
+      "label": "schemas/",
+      "parent": "docs/",
+      "position": {
+        "x": 1250,
+        "y": 0
+      },
+      "isDir": true,
+      "children": [
+        "docs/schemas/chat_schemas.md"
+      ],
+      "firstMarkdownId": "docs/schemas/chat_schemas.md"
+    },
+    {
+      "id": "docs/schemas/chat_schemas.md",
+      "label": "chat_schemas.md",
+      "parent": "docs/schemas",
+      "position": {
+        "x": 0,
+        "y": 120
+      },
+      "isDir": false,
+      "children": [],
+      "firstMarkdownId": null
+    },
+    {
+      "id": "docs/services",
+      "label": "services/",
+      "parent": "docs/",
+      "position": {
+        "x": 1500,
+        "y": 0
+      },
+      "isDir": true,
+      "children": [
+        "docs/services/conversation_service.md",
+        "docs/services/entity_extractor.md",
+        "docs/services/ollama_service.md",
+        "docs/services/summarizer.md",
+        "docs/services/vector_store.md"
+      ],
+      "firstMarkdownId": "docs/services/conversation_service.md"
+    },
+    {
+      "id": "docs/services/conversation_service.md",
+      "label": "conversation_service.md",
+      "parent": "docs/services",
+      "position": {
+        "x": 0,
+        "y": 120
+      },
+      "isDir": false,
+      "children": [],
+      "firstMarkdownId": null
+    },
+    {
+      "id": "docs/services/entity_extractor.md",
+      "label": "entity_extractor.md",
+      "parent": "docs/services",
+      "position": {
+        "x": 250,
+        "y": 120
+      },
+      "isDir": false,
+      "children": [],
+      "firstMarkdownId": null
+    },
+    {
+      "id": "docs/services/ollama_service.md",
+      "label": "ollama_service.md",
+      "parent": "docs/services",
+      "position": {
+        "x": 500,
+        "y": 120
+      },
+      "isDir": false,
+      "children": [],
+      "firstMarkdownId": null
+    },
+    {
+      "id": "docs/services/summarizer.md",
+      "label": "summarizer.md",
+      "parent": "docs/services",
+      "position": {
+        "x": 750,
+        "y": 120
+      },
+      "isDir": false,
+      "children": [],
+      "firstMarkdownId": null
+    },
+    {
+      "id": "docs/services/vector_store.md",
+      "label": "vector_store.md",
+      "parent": "docs/services",
+      "position": {
+        "x": 1000,
+        "y": 120
+      },
+      "isDir": false,
+      "children": [],
+      "firstMarkdownId": null
+    },
+    {
+      "id": "docs/tests",
+      "label": "tests/",
+      "parent": "docs/",
+      "position": {
+        "x": 1750,
+        "y": 0
+      },
+      "isDir": true,
+      "children": [
+        "docs/tests/conftest.md",
+        "docs/tests/test_context_handling.md",
+        "docs/tests/test_conversation_service.md",
+        "docs/tests/test_entity_extractor.md",
+        "docs/tests/test_summarizer.md",
+        "docs/tests/test_vector_store.md"
+      ],
+      "firstMarkdownId": "docs/tests/conftest.md"
+    },
+    {
+      "id": "docs/tests/conftest.md",
+      "label": "conftest.md",
+      "parent": "docs/tests",
+      "position": {
+        "x": 0,
+        "y": 120
+      },
+      "isDir": false,
+      "children": [],
+      "firstMarkdownId": null
+    },
+    {
+      "id": "docs/tests/test_context_handling.md",
+      "label": "test_context_handling.md",
+      "parent": "docs/tests",
+      "position": {
+        "x": 250,
+        "y": 120
+      },
+      "isDir": false,
+      "children": [],
+      "firstMarkdownId": null
+    },
+    {
+      "id": "docs/tests/test_conversation_service.md",
+      "label": "test_conversation_service.md",
+      "parent": "docs/tests",
+      "position": {
+        "x": 500,
+        "y": 120
+      },
+      "isDir": false,
+      "children": [],
+      "firstMarkdownId": null
+    },
+    {
+      "id": "docs/tests/test_entity_extractor.md",
+      "label": "test_entity_extractor.md",
+      "parent": "docs/tests",
+      "position": {
+        "x": 750,
+        "y": 120
+      },
+      "isDir": false,
+      "children": [],
+      "firstMarkdownId": null
+    },
+    {
+      "id": "docs/tests/test_summarizer.md",
+      "label": "test_summarizer.md",
+      "parent": "docs/tests",
+      "position": {
+        "x": 1000,
+        "y": 120
+      },
+      "isDir": false,
+      "children": [],
+      "firstMarkdownId": null
+    },
+    {
+      "id": "docs/tests/test_vector_store.md",
+      "label": "test_vector_store.md",
+      "parent": "docs/tests",
+      "position": {
+        "x": 1250,
+        "y": 120
+      },
+      "isDir": false,
+      "children": [],
+      "firstMarkdownId": null
+    }
+  ],
+  "byId": {
+    "docs/": {
+      "id": "docs/",
+      "label": "docs/",
+      "parent": null,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "isDir": true,
+      "children": [
+        "docs/api",
+        "docs/architecture.md",
+        "docs/core",
+        "docs/main.md",
+        "docs/models",
+        "docs/schemas",
+        "docs/services",
+        "docs/tests"
+      ],
+      "firstMarkdownId": "docs/architecture.md"
+    },
+    "docs/api": {
+      "id": "docs/api",
+      "label": "api/",
+      "parent": "docs/",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "isDir": true,
+      "children": [
+        "docs/api/endpoints"
+      ],
+      "firstMarkdownId": "docs/api/endpoints/conversation.md"
+    },
+    "docs/api/endpoints": {
+      "id": "docs/api/endpoints",
+      "label": "endpoints/",
+      "parent": "docs/api",
+      "position": {
+        "x": 0,
+        "y": 120
+      },
+      "isDir": true,
+      "children": [
+        "docs/api/endpoints/conversation.md"
+      ],
+      "firstMarkdownId": "docs/api/endpoints/conversation.md"
+    },
+    "docs/api/endpoints/conversation.md": {
+      "id": "docs/api/endpoints/conversation.md",
+      "label": "conversation.md",
+      "parent": "docs/api/endpoints",
+      "position": {
+        "x": 0,
+        "y": 240
+      },
+      "isDir": false,
+      "children": [],
+      "firstMarkdownId": null
+    },
+    "docs/architecture.md": {
+      "id": "docs/architecture.md",
+      "label": "architecture.md",
+      "parent": "docs/",
+      "position": {
+        "x": 250,
+        "y": 0
+      },
+      "isDir": false,
+      "children": [],
+      "firstMarkdownId": null
+    },
+    "docs/core": {
+      "id": "docs/core",
+      "label": "core/",
+      "parent": "docs/",
+      "position": {
+        "x": 500,
+        "y": 0
+      },
+      "isDir": true,
+      "children": [
+        "docs/core/config.md"
+      ],
+      "firstMarkdownId": "docs/core/config.md"
+    },
+    "docs/core/config.md": {
+      "id": "docs/core/config.md",
+      "label": "config.md",
+      "parent": "docs/core",
+      "position": {
+        "x": 0,
+        "y": 120
+      },
+      "isDir": false,
+      "children": [],
+      "firstMarkdownId": null
+    },
+    "docs/main.md": {
+      "id": "docs/main.md",
+      "label": "main.md",
+      "parent": "docs/",
+      "position": {
+        "x": 750,
+        "y": 0
+      },
+      "isDir": false,
+      "children": [],
+      "firstMarkdownId": null
+    },
+    "docs/models": {
+      "id": "docs/models",
+      "label": "models/",
+      "parent": "docs/",
+      "position": {
+        "x": 1000,
+        "y": 0
+      },
+      "isDir": true,
+      "children": [
+        "docs/models/conversation.md"
+      ],
+      "firstMarkdownId": "docs/models/conversation.md"
+    },
+    "docs/models/conversation.md": {
+      "id": "docs/models/conversation.md",
+      "label": "conversation.md",
+      "parent": "docs/models",
+      "position": {
+        "x": 0,
+        "y": 120
+      },
+      "isDir": false,
+      "children": [],
+      "firstMarkdownId": null
+    },
+    "docs/schemas": {
+      "id": "docs/schemas",
+      "label": "schemas/",
+      "parent": "docs/",
+      "position": {
+        "x": 1250,
+        "y": 0
+      },
+      "isDir": true,
+      "children": [
+        "docs/schemas/chat_schemas.md"
+      ],
+      "firstMarkdownId": "docs/schemas/chat_schemas.md"
+    },
+    "docs/schemas/chat_schemas.md": {
+      "id": "docs/schemas/chat_schemas.md",
+      "label": "chat_schemas.md",
+      "parent": "docs/schemas",
+      "position": {
+        "x": 0,
+        "y": 120
+      },
+      "isDir": false,
+      "children": [],
+      "firstMarkdownId": null
+    },
+    "docs/services": {
+      "id": "docs/services",
+      "label": "services/",
+      "parent": "docs/",
+      "position": {
+        "x": 1500,
+        "y": 0
+      },
+      "isDir": true,
+      "children": [
+        "docs/services/conversation_service.md",
+        "docs/services/entity_extractor.md",
+        "docs/services/ollama_service.md",
+        "docs/services/summarizer.md",
+        "docs/services/vector_store.md"
+      ],
+      "firstMarkdownId": "docs/services/conversation_service.md"
+    },
+    "docs/services/conversation_service.md": {
+      "id": "docs/services/conversation_service.md",
+      "label": "conversation_service.md",
+      "parent": "docs/services",
+      "position": {
+        "x": 0,
+        "y": 120
+      },
+      "isDir": false,
+      "children": [],
+      "firstMarkdownId": null
+    },
+    "docs/services/entity_extractor.md": {
+      "id": "docs/services/entity_extractor.md",
+      "label": "entity_extractor.md",
+      "parent": "docs/services",
+      "position": {
+        "x": 250,
+        "y": 120
+      },
+      "isDir": false,
+      "children": [],
+      "firstMarkdownId": null
+    },
+    "docs/services/ollama_service.md": {
+      "id": "docs/services/ollama_service.md",
+      "label": "ollama_service.md",
+      "parent": "docs/services",
+      "position": {
+        "x": 500,
+        "y": 120
+      },
+      "isDir": false,
+      "children": [],
+      "firstMarkdownId": null
+    },
+    "docs/services/summarizer.md": {
+      "id": "docs/services/summarizer.md",
+      "label": "summarizer.md",
+      "parent": "docs/services",
+      "position": {
+        "x": 750,
+        "y": 120
+      },
+      "isDir": false,
+      "children": [],
+      "firstMarkdownId": null
+    },
+    "docs/services/vector_store.md": {
+      "id": "docs/services/vector_store.md",
+      "label": "vector_store.md",
+      "parent": "docs/services",
+      "position": {
+        "x": 1000,
+        "y": 120
+      },
+      "isDir": false,
+      "children": [],
+      "firstMarkdownId": null
+    },
+    "docs/tests": {
+      "id": "docs/tests",
+      "label": "tests/",
+      "parent": "docs/",
+      "position": {
+        "x": 1750,
+        "y": 0
+      },
+      "isDir": true,
+      "children": [
+        "docs/tests/conftest.md",
+        "docs/tests/test_context_handling.md",
+        "docs/tests/test_conversation_service.md",
+        "docs/tests/test_entity_extractor.md",
+        "docs/tests/test_summarizer.md",
+        "docs/tests/test_vector_store.md"
+      ],
+      "firstMarkdownId": "docs/tests/conftest.md"
+    },
+    "docs/tests/conftest.md": {
+      "id": "docs/tests/conftest.md",
+      "label": "conftest.md",
+      "parent": "docs/tests",
+      "position": {
+        "x": 0,
+        "y": 120
+      },
+      "isDir": false,
+      "children": [],
+      "firstMarkdownId": null
+    },
+    "docs/tests/test_context_handling.md": {
+      "id": "docs/tests/test_context_handling.md",
+      "label": "test_context_handling.md",
+      "parent": "docs/tests",
+      "position": {
+        "x": 250,
+        "y": 120
+      },
+      "isDir": false,
+      "children": [],
+      "firstMarkdownId": null
+    },
+    "docs/tests/test_conversation_service.md": {
+      "id": "docs/tests/test_conversation_service.md",
+      "label": "test_conversation_service.md",
+      "parent": "docs/tests",
+      "position": {
+        "x": 500,
+        "y": 120
+      },
+      "isDir": false,
+      "children": [],
+      "firstMarkdownId": null
+    },
+    "docs/tests/test_entity_extractor.md": {
+      "id": "docs/tests/test_entity_extractor.md",
+      "label": "test_entity_extractor.md",
+      "parent": "docs/tests",
+      "position": {
+        "x": 750,
+        "y": 120
+      },
+      "isDir": false,
+      "children": [],
+      "firstMarkdownId": null
+    },
+    "docs/tests/test_summarizer.md": {
+      "id": "docs/tests/test_summarizer.md",
+      "label": "test_summarizer.md",
+      "parent": "docs/tests",
+      "position": {
+        "x": 1000,
+        "y": 120
+      },
+      "isDir": false,
+      "children": [],
+      "firstMarkdownId": null
+    },
+    "docs/tests/test_vector_store.md": {
+      "id": "docs/tests/test_vector_store.md",
+      "label": "test_vector_store.md",
+      "parent": "docs/tests",
+      "position": {
+        "x": 1250,
+        "y": 120
+      },
+      "isDir": false,
+      "children": [],
+      "firstMarkdownId": null
+    }
+  },
+  "byParent": {
+    "null": [
+      "docs/"
+    ],
+    "docs/": [
+      "docs/api",
+      "docs/architecture.md",
+      "docs/core",
+      "docs/main.md",
+      "docs/models",
+      "docs/schemas",
+      "docs/services",
+      "docs/tests"
+    ],
+    "docs/api": [
+      "docs/api/endpoints"
+    ],
+    "docs/api/endpoints": [
+      "docs/api/endpoints/conversation.md"
+    ],
+    "docs/core": [
+      "docs/core/config.md"
+    ],
+    "docs/models": [
+      "docs/models/conversation.md"
+    ],
+    "docs/schemas": [
+      "docs/schemas/chat_schemas.md"
+    ],
+    "docs/services": [
+      "docs/services/conversation_service.md",
+      "docs/services/entity_extractor.md",
+      "docs/services/ollama_service.md",
+      "docs/services/summarizer.md",
+      "docs/services/vector_store.md"
+    ],
+    "docs/tests": [
+      "docs/tests/conftest.md",
+      "docs/tests/test_context_handling.md",
+      "docs/tests/test_conversation_service.md",
+      "docs/tests/test_entity_extractor.md",
+      "docs/tests/test_summarizer.md",
+      "docs/tests/test_vector_store.md"
+    ]
+  }
+}
