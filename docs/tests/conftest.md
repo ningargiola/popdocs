@@ -59,5 +59,3 @@ This allows all service and API tests to run quickly and without real network/mo
 - **Safety:** No risk of accidentally hitting production services or databases during testing.
 
 ---
-
-*Update this file as you add new dependencies or service integrations requiring test isolation!*

@@ -102,5 +102,3 @@ convs = service.get_all_conversations()
 
 ---
 
-*Update this file as the service logic changes, or if you add new integrations or business rules!*
-

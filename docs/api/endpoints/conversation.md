@@ -161,5 +161,3 @@ curl -X GET http://localhost:8000/conversations
 - [Conversation Service Logic](./service.md) <!-- add if you create this doc -->
 
 ---
-
-*Keep this document updated as you add more endpoints, models, or change logic!*

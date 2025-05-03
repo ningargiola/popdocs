@@ -54,5 +54,4 @@ print(settings.OLLAMA_BASE_URL)
 
 ---
 
-*Update this file if you add, remove, or change configuration options in your application.*
 
